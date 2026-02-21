@@ -14,7 +14,7 @@ Meu objetivo é ingressar na área de TI e evoluir profissionalmente na área de
 # 🔬 Laboratórios em Desenvolvimento
 
 No meu perfil você encontrará os seguintes laboratórios : 
-- Guia de formatação e instalação do Windows 10 e 11 ✅
+- Guia de formatação e instalação do Windows 10 e 11 -> https://github.com/npimentels/guia-formatacao-windows10
 - Instalação e configuração de drivers ✅
 - Configuração de ambiente de transmissão com OBS Studio ✅
 - Como realizar montagem do seu primeiro primeiro computador ✅
