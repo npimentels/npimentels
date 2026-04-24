@@ -2,35 +2,37 @@
 
 ### Olá! Eu sou Nicolas 👋
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas, e atualmente estou construindo laboratórios práticos para desenvolver minhas habilidades em : 
-- Diagnóstico e resolução de problemas reais.
-- Instalação e manutenção de sistemas.
-- Documentações técnicas.
-- Configurações de redes.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou focado em construir projetos práticos que unem **UI/UX Design, desenvolvimento web e inteligência artificial.**
 
-Meu objetivo é ingressar na área de TI e evoluir profissionalmente na área de Infraestrutura de Redes.
->💬 **Curiosidade sobre mim :** Desde que comecei a estudar TI, **a área de redes conseguiu ganhar meu coração** de uma forma indescritível que nem mesmo Python foi capaz de me puxar de volta. Gosto bastante de entender o que rola por trás dos problemas técnicos - especialmente aqueles que parecem simples mas que nunca são.
+Tenho trabalhado com uma abordagem moderna conhecida como **vibe coding,** utilizando ferramentas como ChatGPT, Gemini e Claude para transformar ideias em soluções reais de forma rápida e iterativa — sempre validando, ajustando e evoluindo o que construo.
+
+Hoje, meu principal foco está na criação de experiências digitais funcionais e bem estruturadas, combinando:
+
+🎨 **UI/UX Design (experiência e organização da interface)**
+💻 **Desenvolvimento Web (HTML, CSS, JavaScript)**
+🤖 **Integração com IA (APIs, geração de conteúdo, automações)**
 
 # 🔬 Laboratórios em Desenvolvimento
 
-No meu perfil você encontrará os seguintes laboratórios : 
-- Guia de formatação e instalação do Windows 10 e 11 -> https://github.com/npimentels/guia-formatacao-windows10
-- Instalação e configuração de drivers ✅
-- Configuração de ambiente de transmissão com OBS Studio ✅
-- Como realizar montagem do seu primeiro primeiro computador ✅
-- Troubleshooting : computador não dá vídeo e como resolver ✅
-- Guia de backup e recuperação de dados ✅
+Atualmente estou desenvolvendo:
+
+📘 **Guia de UI/UX com IA integrada**
+→ Um website educacional que ensina conceitos de UX e permite interação com um assistente de IA para geração de resumos, explicações e conteúdo dinâmico.
+🔬 **Laboratórios práticos de TI (infraestrutura e troubleshooting)**
+→ Documentações reais sobre instalação, configuração e resolução de problemas técnicos.
 
 # 👔 Filosofia Profissional 
 
-Sempre enxerguei a tecnologia como algo que faz sentido quando você para pra entender de verdade — não dá pra enganar um sistema, ele responde ao que você sabe, não ao que você aparenta saber.*
+Acredito que tecnologia só faz sentido quando é construída com entendimento real.
 
-Por isso não me interesso pelo caminho mais "rápido". Me interesso pelo o caminho que fica. Prefiro entender por que uma rede se comporta de determinada forma do que decorar uma linha de código ou um comando que resolve o problema temporariamente.
+Por isso, não busco apenas fazer funcionar, busco entender:
 
-Redes e infraestrutura, pra mim, vão além de configurar — é sobre enxergar como as coisas se conectam, onde uma decisão impacta outra, o que acontece quando algo falha. Esse tipo de raciocínio é o que me atrai nos problemas mais difíceis em TI: aqueles que pedem atenção, calma e lógica.
+**Por que funciona**
+**Onde pode falhar**
+**Como pode evoluir**
 
-Estou construindo minha base técnica de forma consistente — com prática real, documentação do que aprendo e evolução sem pressa. 
+Uso IA como uma ferramenta estratégica, não como substituto, e vejo o desenvolvimento como um processo contínuo de experimentação, validação e melhoria.
 
-> **O objetivo é claro: ser o tipo de profissional em quem um ambiente crítico pode confiar.**
+> **O objetivo é claro: Construir soluções reais, evoluir rapidamente e me tornar um profissional capaz de transformar ideias em produtos funcionais — com consistência, clareza e autonomia.**
 
                                                   💻
