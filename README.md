@@ -2,14 +2,16 @@
 
 ### Olá! Eu sou Nicolas 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou focado em construir projetos práticos que unem **UI/UX Design, desenvolvimento web e inteligência artificial.**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente estou focado em construir projetos práticos que unem **UI/UX Design, desenvolvimento web e inteligência artificial.**
 
 Tenho trabalhado com uma abordagem moderna conhecida como **vibe coding,** utilizando ferramentas como ChatGPT, Gemini e Claude para transformar ideias em soluções reais de forma rápida e iterativa — sempre validando, ajustando e evoluindo o que construo.
 
 Hoje, meu principal foco está na criação de experiências digitais funcionais e bem estruturadas, combinando:
 
 🎨 **UI/UX Design (experiência e organização da interface)**
+
 💻 **Desenvolvimento Web (HTML, CSS, JavaScript)**
+
 🤖 **Integração com IA (APIs, geração de conteúdo, automações)**
 
 # 🔬 Laboratórios em Desenvolvimento
