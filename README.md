@@ -18,6 +18,7 @@ Atualmente estou desenvolvendo:
 
 📘 **Guia de UI/UX com IA integrada**
 → Um website educacional que ensina conceitos de UX e permite interação com um assistente de IA para geração de resumos, explicações e conteúdo dinâmico.
+
 🔬 **Laboratórios práticos de TI (infraestrutura e troubleshooting)**
 → Documentações reais sobre instalação, configuração e resolução de problemas técnicos.
 
@@ -28,7 +29,9 @@ Acredito que tecnologia só faz sentido quando é construída com entendimento r
 Por isso, não busco apenas fazer funcionar, busco entender:
 
 **Por que funciona**
+
 **Onde pode falhar**
+
 **Como pode evoluir**
 
 Uso IA como uma ferramenta estratégica, não como substituto, e vejo o desenvolvimento como um processo contínuo de experimentação, validação e melhoria.
